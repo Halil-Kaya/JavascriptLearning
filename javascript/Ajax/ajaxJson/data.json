@@ -1,0 +1,18 @@
+[
+    {
+        "name":"Halil Kaya",
+        "departman" : "Computer",
+        "salary" : 1000000
+    },
+    {
+        "name":"Emre",
+        "departman" : "Mokoko",
+        "salary" : 51
+    },
+    {
+        "name":"Semih parlak",
+        "departman" : "architecture",
+        "salary" : 50
+    }
+
+]
