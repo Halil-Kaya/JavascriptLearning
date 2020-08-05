@@ -1,0 +1,4 @@
+toplam ram: 24 GB
+kullanılan ram: 9.5 GB
+kalan ram: 14 GB
+cpu sayısı: 4
